@@ -30,8 +30,12 @@
           <option name="url" value="https://SlavaSafarian@bitbucket.org/growdirector/growdirectormobile.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DrKLO/Telegram.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Android\chiProjects" />
+    <option name="cloneParentDir" value="C:\Android\AndroidProject" />
   </component>
 </application>
