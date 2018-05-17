@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/jerome2016/Android_USB_UVC_Camera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/huanghuansen/uvccamera.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Android\chiProjects" />
