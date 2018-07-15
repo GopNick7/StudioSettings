@@ -1,0 +1,29 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-07-15T15:40:54</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.0.0.18</property>
+    <property name="modified">2018-07-15T15:46:48</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="3d57cc" />
+      </value>
+    </option>
+    <option name="KOTLIN_BUILTIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="3d57cc" />
+      </value>
+    </option>
+    <option name="KOTLIN_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
