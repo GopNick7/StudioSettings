@@ -70,6 +70,10 @@
           <option name="url" value="http://gitlab.chisw.us/android/AR_new_year.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.chisw.us/android/CHISW_AR_Platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Android\chiProjects" />
