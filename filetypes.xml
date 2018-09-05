@@ -4,6 +4,7 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="vertex_shader" type="PLAIN_TEXT" />
       <mapping pattern="fragment_shader" type="PLAIN_TEXT" />
+      <mapping ext="imgdb" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
     </extensionMap>
