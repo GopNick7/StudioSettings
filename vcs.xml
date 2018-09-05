@@ -86,8 +86,12 @@
           <option name="url" value="http://gitlab.chisw.us/android/AR_CHIman.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/google-ar/sceneform-android-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Android\chiProjects" />
+    <option name="cloneParentDir" value="C:\Android\AndroidProject" />
   </component>
 </application>
