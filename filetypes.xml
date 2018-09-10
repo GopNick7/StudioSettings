@@ -6,6 +6,7 @@
       <mapping pattern="fragment_shader" type="PLAIN_TEXT" />
       <mapping ext="imgdb" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="sfb" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
