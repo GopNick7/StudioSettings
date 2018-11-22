@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/anandmuralidhar24/AssimpAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Samsung/GearVRf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Android\AndroidProject" />
