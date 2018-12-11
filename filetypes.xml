@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="fragment_shader" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="vertex_shader" type="PLAIN_TEXT" />
-      <mapping ext="imgdb" type="PLAIN_TEXT" />
+      <mapping pattern="fragment_shader" type="PLAIN_TEXT" />
       <mapping ext="gltf" type="PLAIN_TEXT" />
+      <mapping ext="sfb" type="PLAIN_TEXT" />
+      <mapping ext="realm" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
-      <mapping ext="sfb" type="PLAIN_TEXT" />
+      <mapping ext="imgdb" type="PLAIN_TEXT" />
       <mapping ext="mtl" type="PLAIN_TEXT" />
-      <mapping ext="realm" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
