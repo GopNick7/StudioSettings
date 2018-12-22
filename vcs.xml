@@ -126,6 +126,10 @@
           <option name="url" value="https://github.com/ArtemUvarenko/AssigmentApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BlackDevs/Interview_test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Android\AndroidProject" />
