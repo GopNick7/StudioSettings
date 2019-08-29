@@ -1,9 +1,0 @@
-<application>
-  <component name="ThreadsViewSettings">
-    <option name="SHOW_LINE_NUMBER" value="false" />
-    <option name="SHOW_CLASS_NAME" value="false" />
-    <option name="SHOW_PACKAGE_NAME" value="false" />
-    <option name="SHOW_SYNTHETIC_FRAMES" value="false" />
-    <option name="SHOW_CURRENT_THREAD" value="false" />
-  </component>
-</application>
