@@ -166,6 +166,10 @@
           <option name="url" value="https://gitlab.labnet.lu/ArcStore/labmovemobile.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WowzaMediaSystems/gocoder-sdk-samples-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Android\chiProjects" />
