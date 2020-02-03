@@ -132,7 +132,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="nekitdev" />
+          <option name="userName" value="NikitaBroadsay" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/googlesamples/android-vision.git" />
@@ -170,8 +170,12 @@
           <option name="url" value="https://github.com/WowzaMediaSystems/gocoder-sdk-samples-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://NikitaBroadsay@bitbucket.org/haimva/fashion-app-kotlin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Android\chiProjects" />
+    <option name="cloneParentDir" value="D:\androidPro" />
   </component>
 </application>
