@@ -174,7 +174,4 @@
     </option>
     <option name="cloneParentDir" value="C:\Android\chiProjects" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-  </component>
 </application>
