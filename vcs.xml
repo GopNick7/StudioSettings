@@ -186,6 +186,10 @@
           <option name="url" value="https://github.com/umair13adil/KotlinFFMpeg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tanersener/mobile-ffmpeg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\androidPro" />
