@@ -194,6 +194,10 @@
           <option name="url" value="https://github.com/mirmilad/grafika.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://forge.channelfix.com/cynid.chen/channelfix-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\androidPro" />
