@@ -202,6 +202,10 @@
           <option name="url" value="https://github.com/moo611/opencamera-for-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kickflip/kickflip-android-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\androidPro\sample" />
