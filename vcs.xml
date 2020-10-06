@@ -262,6 +262,10 @@
           <option name="url" value="https://github.com/BlackDevs/Camera2Photo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/uptechteam/MotionViews-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\androidPro\sample" />
