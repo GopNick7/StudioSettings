@@ -358,6 +358,10 @@
           <option name="url" value="https://github.com/gbhargavv/Custom-Text-Sticker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ghanshyam34/PhotoEditingLib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\androidPro\sample" />
